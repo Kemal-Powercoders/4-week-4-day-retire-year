@@ -1,0 +1,13 @@
+Input:
+    currentAge;
+    retireAge;
+    retireYear;
+Processes:
+    calculate retireAge - currentAge = result
+    add the result to current year
+Output:
+    display the left years you have to retire;
+    display the retirement year;
+Constraint:
+    Numbers, positive, non-decimal;
+    Retirement age must be greater than current age;
